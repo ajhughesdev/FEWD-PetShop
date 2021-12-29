@@ -1,1 +1,6 @@
 .DS_Store
+node_modules
+src/cl-petshop-overview-jpg
+src/CL-Petshop-Overview.pdf
+package-lock.json
+assets

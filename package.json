@@ -1,0 +1,23 @@
+{
+  "name": "fewd-petshop",
+  "version": "1.0.0",
+  "description": "This is a sample design for Code Louisville's Front-End Web Development pathway. The following sample mockup can be used as is or as a wireframe/template for your own project. Please discuss your project with a mentor if you have any questions.",
+  "main": "index.js",
+  "scripts": {
+    "sass:compile": "sass src/main.scss public/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajhughesdev/FEWD-PetShop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajhughesdev/FEWD-PetShop/issues"
+  },
+  "homepage": "https://github.com/ajhughesdev/FEWD-PetShop#readme",
+  "devDependencies": {
+    "sass": "^1.45.1"
+  }
+}
